@@ -24,5 +24,7 @@ I am a web development lover, new to the technology sector. I enjoy creating web
 <p align="left"> <a href="https://www.github.com/biancadizio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/biancagdizio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+
+<!--
 ### Badges
-<a href="https://github.com/biancadizio" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancadizio" alt="Top Languages" /></a>
+<a href="https://github.com/biancadizio" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancadizio" alt="Top Languages" /></a>-->
